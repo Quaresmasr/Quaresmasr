@@ -14,4 +14,4 @@
   <img align="center" alt="" src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div><br/>
 
-Cursando Ensino médio Tecnico em Tecnologia da informação
+Cursando Ensino médio Tecnico 
